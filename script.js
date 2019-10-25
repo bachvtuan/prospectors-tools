@@ -1,5 +1,5 @@
-const max_number = 25;
-const min_number = -25;
+const max_number = 30;
+const min_number = -30;
 //should input as x/y. EG: 12/20
 var getPointFromInput = function(input_selector){
   var value = $(input_selector).val();
